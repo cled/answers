@@ -1,0 +1,14 @@
+Answers JavaScript Test 1.6
+---------------------------------------
+
+Please open each HTML file in this archive and follow the instructions. You have 2 hours in total.
+If you aren't able to complete the test in time, just note in the HTML file what you attempted to do,
+and any thoughts you may have about the problem or the solution. Please avoid copying and pasting
+answers from the Internet.
+
+Document your code when possible, and try to produce clean, concise, terse code that you would be 
+proud to share with your team.
+
+Note: don’t email us a zip file since it will be blocked by our mail server. Instead, just post your zip to dropbox or similar and send us a link. Send your results to alexei.white@answers.com
+
+Good luck!

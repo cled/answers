@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Animation</title>
+
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js" type="text/javascript"></script>
+    <script src="lib/animation.js" type="text/javascript"></script>
+    <style>
+        #cube {
+            position: absolute;
+            left: 100px;
+            top: 150px;
+            width: 20px;
+            height: 20px;
+            background-color: #3333ff;
+
+
+            -webkit-transition: all 1.0s linear;
+            -moz-transition: all 1.0s linear;
+            -o-transition: all 1.0s linear;
+            -ms-transition: all 1.0s linear;
+            transition: all 1.0s linear;
+        }
+    </style>
+</head>
+<body>
+<h1>Animation</h1>
+<p>Create a simple program to animate the cube so that it animates to the location of where you click on the page. If possible, try to encorporate modern browser features including but not limited to CSS3 or HTML5. Try to achieve as high a frame-rate as you can with your algorithm.</p>
+<div id="cube"></div>
+</body>
+</html>
